@@ -1,0 +1,24 @@
+{
+  "name": "reactive-require",
+  "version": "1.0.0",
+  "description": "Require modules as reactive streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "module",
+    "require",
+    "reactive"
+  ],
+  "author": {
+    "name": "Dudás Ádám",
+    "email": "sir.dudas.adam@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "xstream": "^11.0.0"
+  }
+}
