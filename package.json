@@ -17,6 +17,10 @@
     "name": "Dudás Ádám",
     "email": "sir.dudas.adam@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siliconbrain/reactive-require.git"
+  },
   "license": "ISC",
   "dependencies": {
     "xstream": "^11.0.0"
