@@ -1,6 +1,6 @@
 {
   "name": "reactive-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Require modules as reactive streams.",
   "main": "index.js",
   "scripts": {
